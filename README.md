@@ -2,6 +2,9 @@
 
 A full-stack Book Management System using React (frontend) and Express + PostgreSQL (backend). Ready for deployment on Railway as a single service.
 
+<img width="1913" height="1032" alt="image" src="https://github.com/user-attachments/assets/b825ffb7-9f1f-4194-b361-674e74047cee" />
+
+
 ## Features
 - List, add, edit, and delete books
 - Search by title or author
@@ -60,4 +63,4 @@ None required for local or Railway deployment.
 - Push to GitHub, then deploy on [Railway](https://railway.app) via "Deploy from GitHub repo".
 - Railway will use the `start` script in root `package.json`.
 
-[Live Demo](#)
+[Live Demo](https://bookmanagereact-production.up.railway.app/)
